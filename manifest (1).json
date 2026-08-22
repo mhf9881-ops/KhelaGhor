@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Khela Ghor",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Khela Ghor BD",
+  "start_url": "https://mhf9881-ops.github.io/KhelaGhor/",
+  "theme_color": "#ffffff",
+  "id": "khelaghor",
+  "description": "Tournament app"
+}
